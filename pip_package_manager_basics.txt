@@ -1,0 +1,20 @@
+#version
+pip --version
+
+#list installed packaged
+pip list
+
+#search and get information on a package
+pip search <package_name>
+
+#list outdated packageds
+pip list --outdated
+
+#install a package
+pip install <package_name>
+
+#upgrade installed packages
+pip install -U <package_name>
+
+#get current package requirements
+pip freeze

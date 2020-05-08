@@ -1,0 +1,6 @@
+dog
+cat
+fishelephant
+frog
+elephant
+frog
